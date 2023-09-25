@@ -1,0 +1,49 @@
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\Vortex.exe.config
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\Vortex.exe
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\Vortex.pdb
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\Leak.Core.dll
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\MetroFramework.Design.dll
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\MetroFramework.dll
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\Torrent.dll
+C:\Users\altin\Desktop\Vortex\Vortex\bin\Debug\Bencode.dll
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.Launcher.resources
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.LBO.resources
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.Main.resources
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.Properties.Resources.resources
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.Usercontrols.Bilgiler.resources
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.Liste.resources
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.csproj.GenerateResource.cache
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.csproj.CoreCompileInputs.cache
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.csproj.CopyComplete
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.exe
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.pdb
+C:\Users\altin\Desktop\Vortex\Vortex\obj\Debug\Vortex.csprojAssemblyReference.cache
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\Vortex.exe.config
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\Vortex.exe
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\Vortex.pdb
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\Vortex.exe.CodeAnalysisLog.xml
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\Vortex.exe.lastcodeanalysissucceeded
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\Animator.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\Leak.Core.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\MemoryManager.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\MetroFramework.Design.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\MetroFramework.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\Interop.WMPLib.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Interop.WMPLib.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.csproj.ResolveComReference.cache
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.Launcher.resources
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.LBO.resources
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.Main.resources
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.Player.resources
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.Properties.Resources.resources
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.Buton_list.resources
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.csproj.GenerateResource.Cache
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.exe
+C:\Users\dante\Documents\Visual Studio 2017\Projects\Vortex\Vortex\obj\Debug\Vortex.pdb
